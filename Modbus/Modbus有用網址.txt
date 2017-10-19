@@ -1,0 +1,8 @@
+http://www.simplymodbus.ca/index.html
+
+rs485 and modbus following
+https://www.cooking-hacks.com/documentation/tutorials/modbus-module-shield-tutorial-for-arduino-raspberry-pi-intel-galileo/#step3
+
+010300000001
+010302002B
+
